@@ -5,15 +5,15 @@ const PORT = process.env.PORT || 8080;
 const connection = require("./db/connect");
 
 
+app.get('/', (req, res) => {
+    res.send('Welcome')
+}); 
+
 //import routes
 const product_routes = require("./routes/products")
 
 //middleware(setting routes)
 app.use("/api/products", product_routes)
-
-app.get('/test', (req, res) => {
-    res.send('Welcome')
-});
 
 app.listen(PORT, async () => {
     try {

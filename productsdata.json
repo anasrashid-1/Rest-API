@@ -1,0 +1,199 @@
+[
+    {
+      "name": "Laptop Pro X",
+      "price": 1299.99,
+      "featured": true,
+      "rating": 4.8,
+      "company": "apple"
+    },
+    {
+      "name": "GalaxyBook Ultra",
+      "price": 899.99,
+      "featured": false,
+      "rating": 4.5,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Inspiron 15",
+      "price": 699.99,
+      "featured": true,
+      "rating": 4.2,
+      "company": "dell"
+    },
+    {
+      "name": "HP Spectre X360",
+      "price": 1199.99,
+      "featured": false,
+      "rating": 4.7,
+      "company": "hp"
+    },
+    {
+      "name": "MacBook Air",
+      "price": 999.99,
+      "featured": true,
+      "rating": 4.6,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Tab S7",
+      "price": 549.99,
+      "featured": false,
+      "rating": 4.4,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1299.99,
+      "featured": true,
+      "rating": 4.9,
+      "company": "dell"
+    },
+    {
+      "name": "HP Envy 360",
+      "price": 849.99,
+      "featured": false,
+      "rating": 4.5,
+      "company": "hp"
+    },
+    {
+      "name": "MacBook Pro 16",
+      "price": 2399.99,
+      "featured": true,
+      "rating": 4.7,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Odyssey G7",
+      "price": 799.99,
+      "featured": false,
+      "rating": 4.4,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Alienware M15",
+      "price": 1799.99,
+      "featured": true,
+      "rating": 4.8,
+      "company": "dell"
+    },
+    {
+      "name": "HP Pavilion Gaming",
+      "price": 999.99,
+      "featured": false,
+      "rating": 4.3,
+      "company": "hp"
+    },
+    {
+      "name": "Mac Mini",
+      "price": 699.99,
+      "featured": true,
+      "rating": 4.6,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "price": 349.99,
+      "featured": false,
+      "rating": 4.5,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Precision 5550",
+      "price": 1499.99,
+      "featured": true,
+      "rating": 4.7,
+      "company": "dell"
+    },
+    {
+      "name": "HP Elite Dragonfly",
+      "price": 1299.99,
+      "featured": false,
+      "rating": 4.6,
+      "company": "hp"
+    },
+    {
+      "name": "iMac 27-inch",
+      "price": 1799.99,
+      "featured": true,
+      "rating": 4.8,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Buds Pro",
+      "price": 199.99,
+      "featured": false,
+      "rating": 4.4,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Latitude 7410",
+      "price": 1299.99,
+      "featured": true,
+      "rating": 4.5,
+      "company": "dell"
+    },
+    {
+      "name": "HP Omen 15",
+      "price": 1199.99,
+      "featured": false,
+      "rating": 4.6,
+      "company": "hp"
+    },
+    {
+      "name": "MacBook Pro 13",
+      "price": 1499.99,
+      "featured": true,
+      "rating": 4.7,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung 32-inch Odyssey G5",
+      "price": 349.99,
+      "featured": false,
+      "rating": 4.5,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Inspiron 14",
+      "price": 549.99,
+      "featured": true,
+      "rating": 4.2,
+      "company": "dell"
+    },
+    {
+      "name": "HP Spectre x360 13",
+      "price": 1099.99,
+      "featured": false,
+      "rating": 4.8,
+      "company": "hp"
+    },
+    {
+      "name": "Mac Pro",
+      "price": 5999.99,
+      "featured": true,
+      "rating": 4.9,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Chromebook Plus",
+      "price": 449.99,
+      "featured": false,
+      "rating": 4.3,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Vostro 15",
+      "price": 799.99,
+      "featured": true,
+      "rating": 4.4,
+      "company": "dell"
+    },
+    {
+      "name": "HP DeskJet 3755",
+      "price": 99.99,
+      "featured": false,
+      "rating": 4.1,
+      "company": "hp"
+    }
+  ]
+  
